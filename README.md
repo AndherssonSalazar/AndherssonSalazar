@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndherssonSalazar
-- 👀 I’m interested in Full Stack Development
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning new technologies
 - 💞️ I’m looking to collaborate on any interesting project
 - 📫 How to reach me - andhersson.salazar@gmail.com
