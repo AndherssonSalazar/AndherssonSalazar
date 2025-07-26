@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @AndherssonSalazar
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning new technologies
-- 💞️ I’m looking to collaborate on any interesting project
-- 📫 How to reach me - andhersson.salazar@gmail.com
+👋 Hi, I'm Andhersson Salazar
+
+💼 I'm a Software Engineer at Interbank, where I contribute to developing secure and efficient banking solutions that serve thousands of users daily.
+
+💡 Passionate about software development, system architecture, and clean, maintainable code. I thrive on solving real-world problems through technology.
+
+🚀 Currently exploring emerging technologies, frameworks, and cloud solutions to stay ahead in a fast-paced tech landscape.
+
+🤝 Always open to collaborating on meaningful projects—especially those that make a difference or present an interesting technical challenge.
+
+📫 Feel free to reach out: andhersson.salazar@gmail.com
 
 <!---
 AndherssonSalazar/AndherssonSalazar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
